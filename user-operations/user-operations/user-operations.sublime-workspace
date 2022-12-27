@@ -1,0 +1,948 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ser",
+				"services_list"
+			],
+			[
+				"Ser",
+				"Services"
+			],
+			[
+				"getSer",
+				"getService_id"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"pre",
+				"permission_id"
+			],
+			[
+				"per",
+				"permission_id"
+			],
+			[
+				"con",
+				"contact_no"
+			],
+			[
+				"perm",
+				"permission_id"
+			],
+			[
+				"et",
+				"email_item"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"val",
+				"valueOf"
+			],
+			[
+				"t",
+				"toString"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Start",
+				"StartTime"
+			],
+			[
+				"Org",
+				"OrgShortCode"
+			],
+			[
+				"resp",
+				"response_message"
+			],
+			[
+				"deta",
+				"detailedmsg_failed_queryorginfo_request_construction"
+			],
+			[
+				"res",
+				"responsecode_failed_queryorginfo_request_construction"
+			],
+			[
+				"get",
+				"getRequestRefID"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"response",
+				"responsemsg_failure"
+			],
+			[
+				"man",
+				"mainservice_request"
+			],
+			[
+				"ini",
+				"initiator_credential"
+			],
+			[
+				"resu",
+				"result_url"
+			],
+			[
+				"caller",
+				"caller_password"
+			],
+			[
+				"main",
+				"mainservice"
+			],
+			[
+				"mai",
+				"mainservice"
+			],
+			[
+				"permi",
+				"permission_id"
+			],
+			[
+				"no",
+				"no_card"
+			],
+			[
+				"regi",
+				"registerCardOperationRequest"
+			],
+			[
+				"ret",
+				"retirecard"
+			],
+			[
+				"tut",
+				"tutukaxmlresponse"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"Card",
+				"CardTrackingNo"
+			],
+			[
+				"Stop",
+				"StopReasonID"
+			],
+			[
+				"l",
+				"logresponse"
+			],
+			[
+				"log",
+				"logresponse"
+			],
+			[
+				"lo",
+				"logresponse"
+			],
+			[
+				"Tr",
+				"TransactionID"
+			],
+			[
+				"cons",
+				"constructActiveLinkedCardXML"
+			],
+			[
+				"op",
+				"optin_status"
+			],
+			[
+				"Re",
+				"RequestRefID"
+			],
+			[
+				"setRe",
+				"setRequestRefID"
+			],
+			[
+				"cust",
+				"customer"
+			],
+			[
+				"st",
+				"stopcard"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"mess",
+				"messageRepo"
+			],
+			[
+				"Messa",
+				"MessagesRepo"
+			],
+			[
+				"Message",
+				"MessageID"
+			],
+			[
+				"Response",
+				"ResponseCode"
+			],
+			[
+				"Ope",
+				"OperationName"
+			],
+			[
+				"act",
+				"status_card_active"
+			],
+			[
+				"min",
+				"source_system_miniapp"
+			],
+			[
+				"Tutu",
+				"TutukaResponse"
+			],
+			[
+				"Respon",
+				"ResponseTemplate"
+			],
+			[
+				"reque",
+				"request_ref_id"
+			],
+			[
+				"req",
+				"requestrefid"
+			],
+			[
+				"Utili",
+				"Utilities"
+			],
+			[
+				"call",
+				"StkCallBack"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"ge",
+				"getOperation_name"
+			],
+			[
+				"reps",
+				"responsecode_status_success"
+			],
+			[
+				"responsecode",
+				"responsecode_internal_exception"
+			],
+			[
+				"detailed",
+				"detailedmsg_internal_exception"
+			],
+			[
+				"Crad",
+				"CardOperations"
+			],
+			[
+				"upda",
+				"updateCardOperationsRequest"
+			],
+			[
+				"fetchCus",
+				"fetchCustomersRequest"
+			],
+			[
+				"fetc",
+				"fetchCustomersRequest"
+			],
+			[
+				"inter",
+				"internal_username"
+			],
+			[
+				"source_system_",
+				"source_system_internal"
+			],
+			[
+				"uti",
+				"utilities_successcode"
+			],
+			[
+				"ca",
+				"callbackrequest"
+			],
+			[
+				"Local",
+				"LocalDateTime"
+			],
+			[
+				"cardoper",
+				"cardoperations"
+			],
+			[
+				"tutu",
+				"tutukaresponse"
+			],
+			[
+				"cardoperat",
+				"cardoperations"
+			],
+			[
+				"cardop",
+				"cardoperations"
+			],
+			[
+				"request",
+				"request_ref_id"
+			],
+			[
+				"card",
+				"cardoperations"
+			],
+			[
+				"exp",
+				"expiry_hours"
+			],
+			[
+				"trans",
+				"transaction_id"
+			],
+			[
+				"expiry",
+				"expiry_duration"
+			],
+			[
+				"expi",
+				"expiry_hours"
+			],
+			[
+				"Nu",
+				"NullString"
+			],
+			[
+				"Tutuka",
+				"TutukaResponse"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"las",
+				"last_active"
+			],
+			[
+				"rec",
+				"recycled_date"
+			],
+			[
+				"vtc",
+				"vtc_request_time"
+			],
+			[
+				"id",
+				"id_number"
+			],
+			[
+				"reposito",
+				"repositories"
+			],
+			[
+				"oper",
+				"operation_version"
+			],
+			[
+				"request_",
+				"request_ref_id"
+			],
+			[
+				"RES",
+				"RESULTCODE"
+			],
+			[
+				"CU",
+				"CUSTOMER_PIN_CONFIGURATION"
+			],
+			[
+				"fi",
+				"finally"
+			],
+			[
+				"not",
+				"notMerchant"
+			],
+			[
+				"in",
+				"initiatingNumber"
+			],
+			[
+				"Ini",
+				"InitiatingNumber"
+			],
+			[
+				"register",
+				"registerMerchantOperation"
+			],
+			[
+				"Init",
+				"InitiatingNumber"
+			],
+			[
+				"Optin",
+				"OptinResponse"
+			],
+			[
+				"Op",
+				"OptinResponse"
+			],
+			[
+				"Mer",
+				"MerchantRepo"
+			],
+			[
+				"Res",
+				"responseBody"
+			],
+			[
+				"auth",
+				"authresponse"
+			],
+			[
+				"tran",
+				"transactionID"
+			],
+			[
+				"Fetch",
+				"FetchCustomer"
+			],
+			[
+				"wri",
+				"writeLog"
+			],
+			[
+				"L",
+				"Logs"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"tr",
+				"transactionDate"
+			],
+			[
+				"Fi",
+				"filePath"
+			],
+			[
+				"Lo",
+				"Logs"
+			],
+			[
+				"Syst",
+				"System"
+			],
+			[
+				"sy",
+				"systemPath"
+			],
+			[
+				"mo",
+				"monthName"
+			],
+			[
+				"rep",
+				"responseBody"
+			],
+			[
+				"tra",
+				"transactionID"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"he",
+				"hexString"
+			],
+			[
+				"by",
+				"bytesToHex"
+			],
+			[
+				"stst",
+				"status"
+			],
+			[
+				"Jso",
+				"JsonElement"
+			],
+			[
+				"P",
+				"Processor"
+			],
+			[
+				"Ill",
+				"IllegalStateException"
+			],
+			[
+				"ai",
+				"airtimeId"
+			],
+			[
+				"Ai",
+				"AirtimeTransaction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services/commonservices",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services/operations",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/resources"
+	],
+	"file_history":
+	[
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services/operations/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services/operations/DBOperations.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services/MainService.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/models/db/Services.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/controllers/MainController.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/pom.xml",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/services/commonservices/Utilities.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/models/apis/Response.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/models/apis/Request.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/controllers/ExceptionController.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/models/db/Users.java",
+		"/media/Miano/Miano/Documents/Others/Vivian/Vivian project/user-operations/src/main/java/com/spa/useroperations/models/Users.java",
+		"/media/Miano/Miano/Documents/Learning Center/SpringBoot Project/spring notes",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/controllers/MainController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/commonservices/Utilities.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/configs/MpesaConfigs.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/operations/MpesaClient.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/huawei/cps/synccpsinterface/api_requestmgr/SYNCAPIRequestMgrService.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/huawei/cps/synccpsinterface/api_requestmgr/SYNCAPIRequestMgrPortType.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/operations/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/resources/application.properties",
+		"/home/Miano/Downloads/spring-boot-soap-client/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/huawei/cps/synccpsinterface/request/QueryOrganizationBalanceRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/huawei/cps/synccpsinterface/result/QueryOrganizationBalanceResult.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/CAB/CVC/UPDATING QOA/Summary",
+		"/home/Miano/Documents/SOAP UI/G2-Sync-Requests-soapui-project.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/models/Request.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/.gitignore",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/MainService.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/models/Response.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/controllers/ExceptionController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/resources/wsdl/CBPInterface_API_Request_Sync.wsdl",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/mpesa/schemapis/com/huawei/cps/cpsinterface/customizedresult/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/FsFloatCheckerApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/FLOAT CHECKER/Implementation/fs-float-checker/src/main/java/com/saf/fsfloatchecker/services/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Others/Vivian/Teaching project/demo/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/java/virtualcard/cvc/cardoperations/MainApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/resources/bootstrap.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/src/main/resources/boostrap.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/dockerfile",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/MPESA_TEP_CELLID_ACTIVATION/Implementation/customer-airtime-purchase/Dockerfile",
+		"/media/Miano/Miano/Documents/Safaricom/Notes/Update Image on Openshift",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-vtc/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-vtc/src/main/resources/application.properties",
+		"/home/Miano/.ssh/id_rsa.pub",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/ms-cvc-card-operations/cvc-cardoperations.sublime-project",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/CardServices.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/DBOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/customizedrequest/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/safaricom/merchantcheckout/CheckoutHeader.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/UtilitiesImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/MainApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/pom.xml",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/CustomerPinVerificationImpl.java",
+		"/home/Miano/customerairtimeproperties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/request/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/request/QueryCustomerInfoRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/target/generated-sources/cxf/com/huawei/cps/cpsinterface/api_requestmgr/ObjectFactory.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CardOperationsAuditRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/CardOperationsAudit.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainService.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/dockerfile",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/cvc-card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/Customers.java",
+		"/media/Miano/Miano/Documents/Learning Center/Codility/Maxcounters.java",
+		"/etc/hosts",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/resources/application.properties",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/DBOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/SubOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/MainApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/controllers/MainController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainServiceImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/apis/TutukaResponse.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/UtilitiesImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/controllers/ExceptionController.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/apis/TutukaRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/CardServices.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/Utilities.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/db/Caller.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/Messages.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/sms/SMSTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/CardOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/db/Customers.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CustomersRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/MessagesRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Credentials/tibco DMZ",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CardOperationsRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/MainService.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apis/ResponseTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apis/RequestTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/CardOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/OneDrive_2022-08-20/cardoperations (1)/src/main/java/virtualcard/cvc/cardoperations/models/CardOperationsRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CallerRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/g2/StkCallBack.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/ResponseCodes.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/Helpers.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/CustomerPinVerificationImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/pinverification/CustomerPinVerification.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/repos/db/CallerRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/proxy/ApiProxyImpl.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/services/proxy/ApiProxy.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/operations/dboperations",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/suboperations/cardoperations",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/suboperations/suboperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/CardoperationsApplication.java",
+		"/media/Miano/Miano/Documents/Safaricom/Temp/temp.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/CardOperationsResponse.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/CardOperationsRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/models/CallbackRequest.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/Customers.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/repos/db/Caller.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/db/CardOperations.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/repos/CardOperationsRepo.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/temp",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/dbs/APICaller.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apis/ServiceResponseTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apis/ServiceRequestTemplate.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apigee/ApiProxyResponse.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/commonservices/models/apigee/ApigeeAccessToken.java",
+		"/media/Miano/Miano/Documents/Safaricom/Projects/VIRTUAL_CARD/Implementation/PCI_DSS/card-operations-master/src/main/java/virtualcard/cvc/cardoperations/services/CardOperationsServiceImpl.java"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"List<Book>",
+			"Book",
+			"Permission_id",
+			"permission_id",
+			"updateUserDetails",
+			"fetchServiceDetails",
+			"updateServiceDetails",
+			"Service",
+			"service",
+			"fetchServiceOperation",
+			"fetchServiceAll",
+			"updateUserDetails",
+			"updateProfile",
+			"updateUserDetails",
+			"service_not_present",
+			"failed_removing_service",
+			"user",
+			"Permission_id",
+			"permission_id",
+			"Contact_no",
+			"contact_no",
+			"Last_name",
+			"last_name",
+			"First_name",
+			"first_name",
+			"fetchUserDetails",
+			"checkEmailisPresent",
+			"checkEmailisPresent_response",
+			"name_itme",
+			"user",
+			"permission_id_item",
+			"contact_no_item",
+			"last_name_item",
+			"first_name_item",
+			"email_item",
+			"fetchUserDetails",
+			"checkEmailisPresent",
+			"fetchUserDetails",
+			"private",
+			"user",
+			"HashMap<String, String> mainservice_request = new HashMap<>();\n        ",
+			"checkEmailisPresent",
+			"failed_to_create_service",
+			"failed_to_update_profile",
+			"failed_removing_user",
+			"email_not_present",
+			"createServiceOperation",
+			"checkEmailisPresent",
+			"email_not_present",
+			"failed_to_update_profile",
+			"First_name",
+			"first_name",
+			"First_name",
+			"first_name",
+			"First_name",
+			"first_name",
+			"First_name",
+			"first_name",
+			"First_name",
+			"first_name",
+			"request.get(\"first_name\") :",
+			"\"Good day.\"",
+			"\"Good evening.\"",
+			"internal_exception",
+			"invalid_password",
+			"Response.ServiceResponse.Body.Item()",
+			"Response",
+			"email",
+			"email_item",
+			"last_name_item",
+			"email",
+			" ",
+			";",
+			"user",
+			"useronboarding",
+			"failed_saving_user",
+			"internal_exception",
+			"useronboarding",
+			"Response",
+			"{}",
+			"entities",
+			"useronboarding",
+			"Result",
+			"SYNCAPIRequestMgrService",
+			"getSYNCAPIRequestMgrServicePort",
+			"2",
+			"sendRequesttoG2",
+			"working",
+			"SYNCAPIRequestMgrService",
+			"wsdlURL",
+			"QueryTillInfo",
+			"receiver_type",
+			"receiver_type_org",
+			"receiver_type",
+			"identifier_type",
+			"initiator_type",
+			"responsecode_failed_querytillinfo_request_construction",
+			"queryOrgInfo",
+			"queryorginfo",
+			"QueryOrgInfo",
+			"queryorginfo",
+			"QueryOrgInfo",
+			"rejected_queryorginfo_request_by_g2",
+			"QueryOrgInfo",
+			"queryorginfo",
+			"QueryOrgInfo",
+			"queryorginfo",
+			"QueryOrgInfo",
+			"queryOrgInfo",
+			"QueryOrgInfo",
+			"queryorginfo",
+			"responsecode_failed_queryorginfo_request_construction",
+			"constructQueryOrgInfo",
+			"queryTillInfoOperation",
+			"QueryOrgInfo",
+			"queryOrgInfo",
+			"queryOrgInfoOperation",
+			"query_org_info",
+			"QueryCustomerProductsRequest",
+			"queryOrgInfoOperationResponse",
+			"internal_exception",
+			"failure_sending_queryorginfo_request",
+			"rejected_queryorginfo_request_by_g2",
+			"failed_queryorginfo_request_construction",
+			"queryOrgInfoOperation",
+			"utilities.logEnd(",
+			"utilities.logStart(",
+			"utilities.logEnd("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "user-operations.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
